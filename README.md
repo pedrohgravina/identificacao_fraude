@@ -41,7 +41,7 @@ Clique no botão **Use this template** para criar um novo repositório com base 
 1. Faça o clone do repositório que será criado a partir deste modelo.
 
     ```bash
-    git clone (git@github.com:pedrohgravina/identificacao_fraude.git)
+    git clone [Clique aqui](https://github.com/pedrohgravina/identificacao_fraude)
     ```
 
 2. Crie um ambiente virtual para o seu projeto utilizando o gerenciador de ambientes de sua preferência.
