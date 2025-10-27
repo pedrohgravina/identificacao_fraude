@@ -37,7 +37,7 @@ Clique no botão **Use this template** para criar um novo repositório com base 
 1. Faça o clone do repositório que será criado a partir deste modelo.
 
     ```bash
-    <a href="https://github.com/pedrohgravina/identificacao_fraude" target="_blank">Acesse o projeto no GitHub</a>
+    git clone [Repositório no GitHub](https://github.com/pedrohgravina/identificacao_fraude)
 
     ```
 
