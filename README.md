@@ -1,10 +1,7 @@
-# Modelo de projeto de ciência de dados
+# projeto de identificação de fraude e cartões de crédito
 
-Modelo de projeto de ciência de dados para ser utilizado como referência em projetos
-futuros. Desenvolvido por mim, [Francisco Bustamante](https://github.com/chicolucio),
+Projeto de ciência de dados desenvolvido para identificar fraudes de cartões de crédito. Desenvolvido por mim, [Pedro Henrique Sampaio](https://github.com/chicolucio),
 para alunos iniciantes em ciência de dados de meus cursos e mentorias.
-
-Inspiração: [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
 
 Clique no botão **Use this template** para criar um novo repositório com base neste modelo.
 
@@ -42,7 +39,7 @@ Clique no botão **Use this template** para criar um novo repositório com base 
 1. Faça o clone do repositório que será criado a partir deste modelo.
 
     ```bash
-    git clone ENDERECO_DO_REPOSITORIO
+    git clone 
     ```
 
 2. Crie um ambiente virtual para o seu projeto utilizando o gerenciador de ambientes de sua preferência.
