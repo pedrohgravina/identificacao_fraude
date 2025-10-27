@@ -1,8 +1,6 @@
-# projeto de identificação de fraude e cartões de crédito
+# projeto de identificação de fraudes em cartões de crédito
 
-Projeto de ciência de dados desenvolvido para identificar fraudes de cartões de crédito. Desenvolvido por mim, [Pedro Henrique Sampaio](https://github.com/chicolucio),
-para alunos iniciantes em ciência de dados de meus cursos e mentorias.
-
+Projeto de ciência de dados contruido para identificar fraudes de cartões de crédito. Desenvolvido por mim, [Pedro Henrique Sampaio](https://github.com/pedrohgravina?tab=repositories)
 
 
 Clique no botão **Use this template** para criar um novo repositório com base neste modelo.
@@ -21,8 +19,6 @@ Clique no botão **Use this template** para criar um novo repositório com base 
 ├── modelos            <- Modelos treinados e serializados, previsões de modelos ou resumos de modelos
 |
 ├── notebooks          <- Cadernos Jupyter. A convenção de nomenclatura é um número (para ordenação),
-│                         as iniciais do criador e uma descrição curta separada por `-`, por exemplo
-│                         `01-fb-exploracao-inicial-de-dados`.
 │
 |   └──src             <- Código-fonte para uso neste projeto.
 |      │
@@ -41,7 +37,8 @@ Clique no botão **Use this template** para criar um novo repositório com base 
 1. Faça o clone do repositório que será criado a partir deste modelo.
 
     ```bash
-    git clone [Clique aqui](https://github.com/pedrohgravina/identificacao_fraude)
+    <a href="https://github.com/pedrohgravina/identificacao_fraude" target="_blank">Acesse o projeto no GitHub</a>
+
     ```
 
 2. Crie um ambiente virtual para o seu projeto utilizando o gerenciador de ambientes de sua preferência.
